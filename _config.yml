@@ -20,7 +20,7 @@ title                    : "小學霸"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "小學霸"
-description              : "An amazing website."
+description              : "小学霸的博客"
 url                      : "https://xuebaxi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -1,0 +1,21 @@
+pre.highlight {
+    background: #eee;
+}
+span.p{
+    color: #000000 !important;
+}
+span.s2{
+    color: #22a2c9 !important;
+}
+span.nt{
+    color: #FF00FF !important;
+}
+span.c{
+    color: rgb(13, 145, 94) !important;
+}
+span.nb{
+    color: #000000 !important;
+}
+html {
+    font-size: 16px ;
+  }

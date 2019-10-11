@@ -8,7 +8,7 @@ tags:
   - 代理
 ---
 對於其他設備，直接打上標籤仍給TPROXY 目標。對於本地包，要在V2RAY_MARK 鏈上打一個標籤，觸發 reroute check 。
-```c
+```sh
 ip rule add fwmark 0x01/0x01 table 100
 ip route add local 0.0.0.0/0 dev lo table 100
 iptables -t mangle -N V2RAY
@@ -53,7 +53,7 @@ iptables -t mangle -A V2RAY_MARK -d <出口伺服器地址>  -j RETURN
 iptables -t mangle -A V2RAY_MARK -p udp -j MARK --set-mark 1
 ```
 啟用規則
-```c
+```sh
 iptables -t mangle -A PREROUTING -j V2RAY
 iptables -t mangle -A OUTPUT -j V2RAY_MARK
 ```
