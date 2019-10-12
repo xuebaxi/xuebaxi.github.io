@@ -1,0 +1,20 @@
+html {
+  font-size: 1rem !important; }
+
+div.author__content {
+  font-size: calc(1.255rem + 0.06vw) !important; }
+  @media (min-width: 1200px) {
+    div.author__content {
+      font-size: 1.3rem !important; } }
+
+h1#page-title.page__title {
+  font-size: calc(1.325rem + 0.9vw) !important; }
+  @media (min-width: 1200px) {
+    h1#page-title.page__title {
+      font-size: 2rem !important; } }
+
+a.site-title {
+  font-size: calc(1.255rem + 0.06vw) !important; }
+  @media (min-width: 1200px) {
+    a.site-title {
+      font-size: 1.3rem !important; } }
