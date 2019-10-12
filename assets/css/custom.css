@@ -20,5 +20,14 @@ span.nb{
     color: #000000 !important;
 }
 html {
-    font-size: 16px ;
+    font-size: 17px ;
   }
+div.author__content{
+    font-size: 130%
+}
+h1#page-title.page__title{
+    font-size: 200%
+}
+a.site-title{
+    font-size: 130%
+}
