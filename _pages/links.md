@@ -5,5 +5,6 @@ permalink: /links/
 author_profile: true
 ---
 - [chu's blog](https://blog.chus.me/)
-- [夏叶's blog](http://blog.firerain.me)
+- [夏叶随风's blog](http://blog.firerain.me)
 - [johnrosen's blog](https://www.johnrosen1.com)
+- [芷兰•喵's blog](https://blog-sc.wfvg.me)
