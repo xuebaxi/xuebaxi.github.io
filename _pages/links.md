@@ -8,3 +8,4 @@ author_profile: true
 - [夏叶随风's blog](http://blog.firerain.me)
 - [johnrosen's blog](https://www.johnrosen1.com)
 - [芷兰•喵's blog](https://blog-sc.wfvg.me)
+- [Touamano's blog](https://touamano.com)
