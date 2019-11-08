@@ -24,7 +24,7 @@ gpio.irq(handler=handler_interrupt,trigger=machine.Pin.IRQ_FALLING,priority=1,wa
 其中 machine.Pin.irq 方法參數為
 
 - handler (可選,默認值為None) 是在中斷時調用的函數
-- trigger (默認值為 (machine.Pin.IRQ_FALLING | machine.Pin.IRQ_RISING) )可以產生中斷的事件,可以使用 或 選擇多個情況,可能值為:
+- trigger (默認值為(machine.Pin.IRQ_FALLING|machine.Pin.IRQ_RISING))可以產生中斷的事件,可以使用 或 選擇多個情況,可能值為:
     - machine.Pin.IRQ_FALLING 在電平下降時中斷
     - machine.Pin.IRQ_RISING  在電平上升時中斷
     - machine.Pin.IRQ_LOW_LEVEL 低電平中斷
