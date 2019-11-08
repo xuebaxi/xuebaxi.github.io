@@ -20,5 +20,11 @@ span.nb{
     color: #000000 !important;
 }
 span.n{
-    color: #000000
+    color: #000000 !important;
+}
+span.o{
+    color: #000000 !important;
+}
+span.bp{
+    color: #22a2c9 !important;
 }
