@@ -36,7 +36,7 @@ http://bigmond.co.uk/p/youtube_chat.php?channel=https://www.youtube.com/channel/
 ![](/assets/images/2019_12_05_01/2019_12_06_003559.jpg)
 ### 4. 設置聊天室樣式
 
-在網站https://chatv2.septapus.com/中可以設置聊天室樣式,并在最下面的css框中複製生成出的代碼,將複製出來的代碼粘貼到第三步添加的聊天室輸入源中的自定義CSS中<br>
+在網站<https://chatv2.septapus.com/>中可以設置聊天室樣式,并在最下面的css框中複製生成出的代碼,將複製出來的代碼粘貼到第三步添加的聊天室輸入源中的自定義CSS中<br>
 ![](/assets/images/2019_12_05_01/2019_12_06_003748.jpg)
 點擊確定即可看到最終效果
 ![](/assets/images/2019_12_05_01/2019_12_06_003846.jpg)
