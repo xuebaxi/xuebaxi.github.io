@@ -28,11 +28,11 @@ http://bigmond.co.uk/p/youtube_chat.php?channel=https://www.youtube.com/channel/
 ```
 ?channel=之後為第一步獲得的直播URL
 ### 3. 將聊天室URL添加到OBS
-- 打開OBS,添加瀏覽器源
+- 打開OBS,添加瀏覽器源<br>
 ![](/assets/images/2019_12_05_01/2019_12_06_001849.jpg)
-- 在URL中輸入第二步中的URL
+- 在URL中輸入第二步中的URL<br>
 ![](/assets/images/2019_12_05_01/2019_12_06_001544.jpg)
-- 點擊確定,確認能在畫面中顯示自己的聊天室.
+- 點擊確定,確認能在畫面中顯示自己的聊天室.<br>
 ![](/assets/images/2019_12_05_01/2019_12_06_003559.jpg)
 ### 4. 設置聊天室樣式
 
